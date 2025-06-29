@@ -1,8 +1,3 @@
-Perfecto, aquí tienes la **primera versión del `README.md`** en **inglés** para tu nuevo proyecto de **Spam Email Classification**. Puedes copiarlo directamente y guardarlo como `README.md` en la raíz del repositorio:
-
----
-
-```markdown
 # 📧 Spam Email Classification
 
 This project builds a machine learning pipeline for classifying emails as spam or not spam. It leverages natural language processing (NLP) techniques to preprocess raw text data and applies supervised learning models — **Logistic Regression** and **Naive Bayes** — to perform the classification task.
@@ -132,10 +127,3 @@ Email: [josenavarrojmx@gmail.com](mailto:josenavarrojmx@gmail.com)
 * Train models with larger datasets like Enron
 * Convert to REST API for real-time predictions
 * Use transformers (e.g., BERT) for better accuracy on longer emails
-
-```
-
----
-
-¿Quieres que también genere ahora los archivos `LICENSE` y `CONTRIBUTING.md` como hicimos en el proyecto anterior?
-```

@@ -1,4 +1,3 @@
-````markdown
 # 🧩 Contributing Guide
 
 Thank you for your interest in contributing to **Spam Email Classification**!  
@@ -66,10 +65,3 @@ Go to your fork on GitHub, open a new Pull Request, and describe your changes.
 Feel free to open an [Issue](https://github.com/josenavarrojm/spam-email-classification/issues) for questions, bug reports, or feature requests.
 
 Thank you for contributing! 💙
-
-```
-
----
-
-¿Quieres que prepare también un `CODE_OF_CONDUCT.md` o lo dejamos así por ahora?
-```
