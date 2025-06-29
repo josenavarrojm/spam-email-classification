@@ -1,3 +1,31 @@
+Metadata-Version: 2.4
+Name: spam_email_classifier
+Version: 0.1.0
+Summary: A machine learning project to classify spam emails using logistic regression and Naive Bayes.
+Author: Jose Navarro Meneses
+Author-email: josenavarrojmx@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: kagglehub
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # 📧 Spam Email Classification
 
 This project builds a robust pipeline for classifying spam emails using Natural Language Processing (NLP) and two supervised machine learning models: **Logistic Regression** and **Multinomial Naive Bayes**. It includes data preprocessing, training with hyperparameter tuning, evaluation with metrics and visualizations, and reproducibility features such as a unified shell script and unit testing.

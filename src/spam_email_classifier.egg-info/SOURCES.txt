@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+src/spam_email_classifier.egg-info/PKG-INFO
+src/spam_email_classifier.egg-info/SOURCES.txt
+src/spam_email_classifier.egg-info/dependency_links.txt
+src/spam_email_classifier.egg-info/requires.txt
+src/spam_email_classifier.egg-info/top_level.txt
+tests/test_data_prep.py
+tests/test_evaluate_outputs.py
+tests/test_predict.py
+tests/test_train_model.py

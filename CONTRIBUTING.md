@@ -5,7 +5,7 @@ We welcome all kinds of contributions — from bug reports and feature requests 
 
 ## 📋 How to Contribute
 
-### 1. Fork the Repository
+### 1. Fork the Repository 
 Create your own fork of this repository by clicking the “Fork” button on the top-right corner.
 
 ### 2. Clone Your Fork
